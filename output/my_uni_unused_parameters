@@ -1,0 +1,6 @@
+# List of input/precision parameters passed
+# but not used (just for info)
+#
+compute_sigma8 = yes
+scf_evolve_as_fluid_always = no
+overwrite_root = yes
