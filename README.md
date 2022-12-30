@@ -1,4 +1,4 @@
-####################### Always Begin with The Logic Problem #######################
+# Always Begin with The Logic Problem
 The logic of the code is very simple:
 1. decide what kind of universe you want to live in by determining the values of some parameters.
 2. feed the program CLASS with the universe you have just decided to live and CLASS will help you to figure out what is it like in it (let's call it 'theoretical data').
@@ -10,7 +10,7 @@ The logic of the code is very simple:
 - (that is, if you want to find what the real universe is like rather than create a brand new, which is... in most cases... inhabitable)
 
 
-############################# Your Questions Answered #############################
+# Your Questions Answered
 1. how to decide what kind of universe you want to live in?
 - by creating an .ini file.
 
