@@ -1,7 +1,7 @@
 # Always Begin with The Logic Problem
-The logic of the code is very simple:
+### The logic of the code is very simple:
 1. decide what kind of universe you want to live in by determining the values of some parameters.
-2. feed the program CLASS with the universe you have just decided to live and CLASS will help you to figure out what is it like in it (let's call it 'theoretical data').
+2. feed the program CLASS with the universe you have just decided to live in and CLASS will help you figure out what is it like in it (let's call it 'theoretical data').
 3. find Planck 2018 data, which is what 'our' universe is like (let's call it 'observational data'). 
 4. Use the observational data to compare with the theoretical data (your customised universe vs. our universe).
 5. if the two datasets are perfectly matched -> EXCELLENT! You have just created our universe on your computer!
