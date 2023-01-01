@@ -7,7 +7,7 @@
 5. if the two datasets are perfectly matched -> EXCELLENT! You have just created our universe on your computer!
 - (not that easy of course hahaha ;D)
 6. if the two datasets are not very well matched -> create another universe and do it again until the two datasets finally reach a consensus.
-- (that is, if you want to find what the real universe is like rather than create a brand new one, which is... in most cases... inhabitable)
+- (that is, if you want to find what the real universe is like rather than create a brand new one, which is... in most cases... uninhabitable)
 
 
 # Your Questions Answered
