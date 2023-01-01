@@ -30,7 +30,7 @@
 - this is the tricky part. I have two ways to deal with it, Maximum Likelihood Estimator (MLE) and Markov Chain Monte Carlo (MCMC).
 - MLE: if you keep calculating the residual of the theoretical and observational data, there will be at least one theoretical dataset that generates the smallest residual. this equals to say the 'likelihood' is maximised. that is where MLE gets its name.
 - NOTE: MLE has the 'local optimum' problem, which is not what we want. so we don't really use it here.
-- MCMC: the author is too lazy to explain, but the take-home message that is it is very complicated. luckily, we don't have to code the MCMC algorithm by ourselves, for there are people who are kind enough to do it for us.
+- MCMC: the author is too lazy to explain, but the take-home message is that it is very complicated. luckily, we don't have to code the MCMC algorithm by ourselves, for there are people who are kind enough to do it for us.
 
 7. I think I have understood everything above. so what now?
 - run the class_quick_run.ipynb.
