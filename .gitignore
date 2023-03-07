@@ -1,2 +1,3 @@
-emcee_pool_class.rar
-output
+output/
+script.py
+.ipynb_checkpoints/class_quick_run_parallel-checkpoint.ipynb
